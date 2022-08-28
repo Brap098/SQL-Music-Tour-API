@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": "SPEED",
-    "database": "music_tour",
+    "username": "postgres",
+    "password": "Rimiru$1278",
+    "database": "music_toure",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
